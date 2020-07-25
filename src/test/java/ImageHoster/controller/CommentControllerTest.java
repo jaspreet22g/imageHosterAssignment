@@ -1,7 +1,4 @@
-/*
 package ImageHoster.controller;
-
-
 import ImageHoster.model.Image;
 import ImageHoster.model.User;
 import ImageHoster.model.UserProfile;
@@ -65,4 +62,3 @@ public class CommentControllerTest {
                 .andExpect(redirectedUrl("/images/1/new"));
     }
 }
-*/
